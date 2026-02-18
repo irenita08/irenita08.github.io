@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+theme: minima
 
 title: Irenita
 name: Irenita
@@ -14,7 +14,4 @@ author:
 
 # These are required for the theme to work
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
-
-minimal_mistakes_skin: "air"  # options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
