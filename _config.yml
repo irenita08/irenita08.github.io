@@ -1,1 +1,20 @@
+remote_theme: mmistakes/minimal-mistakes
 
+title: Irenita
+name: Irenita
+description: Sabbatical learnings 
+
+url: "https://www.irehneh.com"  # replace with your actual domain
+
+# You can update these later
+author:
+  name: Ire  
+  bio: "No se cuentan los segundos, se cuentan historias"
+  location: "Somewhere in Asia"
+
+# These are required for the theme to work
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
+minimal_mistakes_skin: "air"  # options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
