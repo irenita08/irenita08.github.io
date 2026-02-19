@@ -1,6 +1,5 @@
 ---
-layout: page
-title: About
+layout: home
 ---
 
 No se cuentan los segundos, se cuentan historias. 
