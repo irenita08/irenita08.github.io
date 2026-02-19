@@ -18,6 +18,7 @@ title: About
 
   - (most important) time spent with Sage and my favorite humans
 
-- This sabbatical is an attempt to reorient my life around those things, and figure out what I’m meant to be doing with the little precious time we’re given on this beautiful planet.
+- This sabbatical is an attempt to reorient my life around those things, and figure out what I’m meant to be doing with the precious little time we’re gifted on this beautiful planet.
+
 
 ![Sage](https://lh3.googleusercontent.com/pw/AP1GczNrjadwx-wXs5ltjxL3VKCJOC4AZgMDhi5BZySBcHqLHaw1VVbHLd1xMRPRyxhv7sio3iEodiIuBFjhbJQ7Yn6obtz7s-sXQZZNEg4M_izoQlacT_0OWd67LT5rKlAXBCflxMrzIjpDI6XwTj1RsZAm-w=w1016)
