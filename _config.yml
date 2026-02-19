@@ -1,16 +1,9 @@
 theme: minima
 
-title: Irenita
-name: Irenita
-description: Sabbatical learnings 
+title: Irene Rivera Calde
+description: Sabbatical learnings; miscellaneous interesting things. "<em>No se cuentan los segundos, se cuentan historias</em>"
 
 url: "https://www.irehneh.com"  # replace with your actual domain
-
-# You can update these later
-author:
-  name: Ire  
-  bio: "No se cuentan los segundos, se cuentan historias"
-  location: "Somewhere in Asia"
 
 # These are required for the theme to work
 plugins:
