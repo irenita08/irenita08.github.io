@@ -14,8 +14,12 @@ author_profile: true
 - I’m not sure what my career “noun” is or should be yet, which is the other big reason for quitting my job to take an exploratory year off.
   
 - I primarily measure life success and satisfaction within a given time period by:
+
   - hours I spent with my dog(child) Sage (especially at the beach) and my favorite humans
+
   - number of new countries / places I was able to explore
+
   - number of interesting books I got to read and how much I got to learn (via work or otherwise)
+
 
 - This sabbatical is an attempt to reorient my life around those things, and figure out what I’m meant to be doing with the little precious time we’re given on this beautiful planet.
