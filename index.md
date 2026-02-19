@@ -3,8 +3,6 @@ layout: home
 author_profile: true
 ---
 
-## About me
-
 - I’m from a beautiful little town on the northern coast of Puerto Rico, now emerging from obscurity due to also being the hometown of Bad Bunny. This is still home, where my mom and brother and doggy live and I always yearn to return. I never quite feel at home if I’m far from the ocean and the sun, *except* in Bologna.
 
 - My first and enduring intellectual love was and remains understanding “the rest of the world.” Maybe because I grew up in a small town in a small island and couldn’t travel much as a kid,  I always just wanted to see and understand as much of the world as possible. Accordingly, I studied international relations and economics at Penn and at Johns Hopkins SAIS, and finance via the CFA program. Interests have evolved over time from poli sci/ IR to finance to now more of a science and tech focus - I just like to learn things.
