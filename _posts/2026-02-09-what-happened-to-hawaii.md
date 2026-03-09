@@ -20,7 +20,7 @@ Growing up in Puerto Rico, I tended to think of Hawaii somewhat jealously as an 
 
 ![Electric beach doggy](https://lh3.googleusercontent.com/pw/AP1GczNGcpQzGLWtjScgbchB8oaZ94JUu-1vu6vJD8Qq0ajI93eY9rqqTA5KvBWaoSD9z3iyTDAdw-SQR-jzSherI9GuH2hRjw9xjhz6osIi6M0FNHzssL5XrDixeD09f5eTbJMI7wkyRGLBuUqS_364Wgph0A=w962-h1283-s-no-gm?authuser=0)
 
-Not that any of it it should've been a surprise. In his recent, groundbreaking album, Bad Bunny made a beautiful song called "What happened to Hawaii" in which he soulfully laments the "Hawaiianization" of Puerto Rico. Still, seeing it in person filled me with a deep empathy for Hawaiians - the ones who have managed to hang on to their magical land, and the ones who have been forced to leave it. [There are now more ethnic Hawaiians outside of Hawaii than in it](https://medium.com/berkeleyischool/the-impacts-of-living-in-paradise-a-narrative-study-on-the-native-hawaiian-migration-trends-5ba79cff89f0).
+Not that any of it it should've been a surprise. In his recent, groundbreaking album, Bad Bunny made a beautiful song called "What happened to Hawaii" in which he soulfully laments the "Hawaiianization" of Puerto Rico. Still, seeing it in person filled me with a deep empathy for Hawaiians - the ones who have managed to hang on to their magical land, and the ones who have been forced to leave it. <a href="[url](https://medium.com/berkeleyischool/the-impacts-of-living-in-paradise-a-narrative-study-on-the-native-hawaiian-migration-trends-5ba79cff89f0)" target="_blank">There are now more ethnic Hawaiians outside of Hawaii than in it.</a>
 
 > *Quieren quitarme el río*
 >
