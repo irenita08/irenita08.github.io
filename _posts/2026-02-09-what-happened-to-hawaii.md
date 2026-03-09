@@ -38,7 +38,7 @@ Not that any of it it should've been a surprise. In his recent, groundbreaking a
 >
 > *le pasó a Hawaii.*
 
---
+> --
 
 > *They want to take over the river*
 >
@@ -56,7 +56,7 @@ Not that any of it it should've been a surprise. In his recent, groundbreaking a
 >
 > *what happened to Hawaii.*
 
-*— "Lo que le pasó a Hawaii" by Benito Antonio Martínez Ocasio, aka Bad Bunny (translation by me)*
+> *— "Lo que le pasó a Hawaii" by Benito Antonio Martínez Ocasio, aka Bad Bunny (translation by me)*
 
 
 In the near 20 years since I left Puerto Rico for college, I've watched it become an increasingly difficult place to live in, resulting in an exodus of people to the mainland that only accelerated after Hurricane María. I have spontaneously burst into tears at the local supermarket upon realizing how many things are more expensive there than at my Whole Foods on Capitol Hill, despite local salaries being a small fraction of mine. I frankly don't know how normal people still manage to live there, with cost of living continuously inflated by an influx of rich Americans who love our sun and sea and *especially* our [tax breaks](https://www.nbcnews.com/news/latino/tax-breaks-puerto-rico-wealthy-displacement-five-things-to-know-rcna104683) (which, of course, don't apply to local residents). 
@@ -64,6 +64,7 @@ In the near 20 years since I left Puerto Rico for college, I've watched it becom
 So when I sat down at my Airbnb to watch the whales and the out-of-this-world sunset off the coast of Maui, I wasn't shocked to learn that I was staring directly at [the Hawaiian island 98% owned by Larry Ellison](https://www.bloomberg.com/graphics/2022-oracle-larry-ellison-lanai-hawaii-plans-tourism/?fbclid=IwAR3yNCwprg_SaoXmSCK5ufLyBD0g79TN6HrCi7_FchLDQQL8fV3zhdKWdMU). Since he owns it all, most inhabitants are his tenants and work for his Four Seasons resorts (even more exclusive versions of the Maui Four Seasons where the always-on-point White Lotus was filmed, produced by a network that Ellison's son is currently trying to buy).  Maui also feels like a stunning endless resort for the rich, and you wonder where all the people who clean and landscape the hotels and mansions live, and how they can afford $10 milk gallons. 
 
 ![Sunset over Lanai](https://lh3.googleusercontent.com/pw/AP1GczOD0ZrqO-vg_0ukomSY8TPn5MCPN_peYi53gVU2FEfWEIVSCMqXmNvOUpSe0s0BMXgg4_w3xC765gMuZeWXHYgpsyARkBdXzP-uckKJY_p2QUHL8L9T7uUU0uxEGViWOQ6KmQmAYCEXXn-z793qkEdlMg=w1710-h1283-s-no-gm?authuser=0)
+
 
 ![Sunset 2](https://lh3.googleusercontent.com/pw/AP1GczN2HhXuir025yM_IljVVaPTHZsaLFyqs2xur318lcZUURyp0M-JE0VEexhPH2pdfmUuJ9SOT5MpITZLG-TdWYKX4KS5NUnupZilQBOUGqk6vOfZXuikGpkwXiwFUu1IRW3PWnW03mQdEdNsKOrlU-cGTA=w1283-h1283-s-no-gm?authuser=0)
 
@@ -78,6 +79,7 @@ I also finally read [*How to Hide an Empire*](https://www.goodreads.com/book/sho
 I feel a deep sense of gratitude for having been born in Puerto Rico and lucky enough to have enjoyed it, with all its beauty and its chaos, throughout my formative years. Growing up we played outside in the sand and surf, we drove through beautiful coastline on the way to school every morning, and swam in rivers hidden under lush green forests. It was a uniquely privileged childhood.  I imagine Hawaiians have a similar sense of gratitude for their spectacular place on this earth, and a corresponding heartbreak over seeing it wrested from them over generations.  
 
 ![Hanauma Bay](https://lh3.googleusercontent.com/pw/AP1GczP6Dr9NrpaL7Ow9QrtFu6GibOQtgc24J2aj_BgLgFlWqH3HtYe0FalGKBp3nIpG_VOclW3rG8mXJ9CVo65qBK1yMIp6ZcYaGr1JD1c-g_Q_VoNV6PjZQeUMxTWZ5GygIiKfZgNBZjJ_LYBXmgzkWghVdQ=w1710-h1283-s-no-gm?authuser=0)
+
 
 ![Hanauma Bay 2](https://lh3.googleusercontent.com/pw/AP1GczMobK9tTWwNB9HKYkxOBPDVbv8ZFMOqRXBIUyQbmkKC1urQzoGk8Wv0rp6j0tkKjl6fjvmMVLHNhW_vwCpfwmKWRrOBt5OOhle-Wict4I192mwueQL0_-4IVNqCWA2XEVNxn1wmP7wBHwmElEymC5NgyQ=w962-h1283-s-no-gm?authuser=0)
 
