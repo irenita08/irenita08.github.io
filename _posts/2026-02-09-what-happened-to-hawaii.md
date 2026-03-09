@@ -37,9 +37,9 @@ Not that any of it it should've been a surprise. In his recent, groundbreaking a
 > *que no quiero que hagan contigo lo que*
 >
 > *le pasó a Hawaii.*
-
-> --
-
+>
+> ---
+>
 > *They want to take over the river*
 >
 > *and also the sea*
@@ -55,7 +55,7 @@ Not that any of it it should've been a surprise. In his recent, groundbreaking a
 > *because I don't want them to do to you*
 >
 > *what happened to Hawaii.*
-
+>
 > *— "Lo que le pasó a Hawaii" by Benito Antonio Martínez Ocasio, aka Bad Bunny (translation by me)*
 
 
