@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img {
+  max-width: 100%;
+  width: auto;
+}
+
+.home p, .home p em {
+  font-size: 1rem;
+}
