@@ -10,7 +10,7 @@ For over five years, I've rolled my eyes at my partner every time we look out at
 
 Despite this build-up, I have to admit that when I finally laid eyes on it, my jaw still dropped. Beauty abounds in this incredible planet, but there really *is* something about Hawaii, with its dramatic cliffs against bright blue waters, lush greens on volcanic rocks, sea turtles swimming and humpback whales splashing in the same frame of view. I adored it. More than that, I felt at home.
 
-![Hawaii intro](https://lh3.googleusercontent.com/pw/AP1GczOWivATu7u152PpevcVmMYqvAtGEn_-S3v6ds1SgtjxU8tqBRurhnf8-aXGLCHvpNAjIM62ajJVUh41wu2iUMaayemoUU-UHseyyqREHkzoeHw1FJ1SYJB1pXgvNY8tayZ4BA40befE319IPgHjRTrtTg=w2304-h947-s-no-gm?authuser=0)
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOWivATu7u152PpevcVmMYqvAtGEn_-S3v6ds1SgtjxU8tqBRurhnf8-aXGLCHvpNAjIM62ajJVUh41wu2iUMaayemoUU-UHseyyqREHkzoeHw1FJ1SYJB1pXgvNY8tayZ4BA40befE319IPgHjRTrtTg=w2304-h947-s-no-gm?authuser=0" style="width:100vw; margin-left: calc(-50vw + 50%); display:block;">
 
 Growing up in Puerto Rico, I tended to think of Hawaii somewhat jealously as an exotic, more privileged cousin: another American island territory, except one that people actually know of and acknowledge as part of the US; a formal state with political representation in Congress and whose residents can vote. What I found in Maui and Oahu, however, was a familiar heartbreak alongside the breathtaking beauty (and a *lot* of homeless people, even by American standards).  
 
