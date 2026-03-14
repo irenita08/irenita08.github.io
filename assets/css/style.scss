@@ -4,11 +4,15 @@
 @import "minima";
 
 .post-content img {
-  width: 100vw !important;
+  width: 100vw;
+  height: auto;           /* This is the magic line that fixes the 'squish' */
+  max-width: none !important; 
   position: relative;
   left: 50%;
-  transform: translateX(-50%);
-  max-width: 100vw !important;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  display: block;
 }
 
 .home p, .home p em {
