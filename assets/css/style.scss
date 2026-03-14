@@ -4,15 +4,26 @@
 @import "minima";
 
 .post-content img {
-  width: 100vw;
-  height: auto;           /* This is the magic line that fixes the 'squish' */
-  max-width: none !important; 
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
   display: block;
+  /* This makes the photo 20% wider than the text column */
+  width: 120% !important;
+  max-width: 120% !important;
+  
+  /* This centers the oversized image perfectly */
+  margin-left: -10%; 
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  
+  height: auto; 
+  border-radius: 4px;
+}
+
+/* On mobile, we should scale it back so it doesn't cut off */
+@media (max-width: 800px) {
+  .post-content img {
+    width: 100%;
+    margin-left: 0;
+  }
 }
 
 .home p, .home p em {
