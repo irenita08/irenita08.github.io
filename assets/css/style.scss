@@ -3,12 +3,12 @@
 
 @import "minima";
 
-.post img {
-  width: 100vw;
+.post-content img {
+  width: 100vw !important;
   position: relative;
   left: 50%;
   transform: translateX(-50%);
-  max-width: 100vw;
+  max-width: 100vw !important;
 }
 
 .home p, .home p em {
