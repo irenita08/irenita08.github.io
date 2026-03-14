@@ -3,9 +3,12 @@
 
 @import "minima";
 
-img {
-  max-width: 100%;
-  width: auto;
+.post img {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: 100vw;
 }
 
 .home p, .home p em {
