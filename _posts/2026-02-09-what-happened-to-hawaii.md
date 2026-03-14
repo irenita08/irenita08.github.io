@@ -89,7 +89,7 @@ As I write this some 38,000 feet over the Pacific en route to another place stee
 
 It's Superbowl weekend in America. Bad Bunny is about to bring the first all-Spanish music show to America's biggest stage, to the dismay of many people completely outraged that just a year after Kendrick Lamar's unapologetically black show, they still can't get *a real American* to do the halftime show*.* The empire stays hidden (but our music does not!). 
 
-This might be partly why Bad Bunny's extremely, specifically, and unapologetically Puerto Rican album has somehow resonated all over the world. What happened to Hawaii is not unique to us, it's a tale as old as time. Mahalo Hawaii. May our cultures endure. May our people survive.
+This might be partly why Bad Bunny's extremely, specifically, unapologetically Puerto Rican album has somehow resonated all over the world. What happened to Hawaii is not unique to us, it's a tale as old as time. Mahalo Hawaii. May our cultures endure. May our people survive.
 
 ![Trees](https://lh3.googleusercontent.com/pw/AP1GczOBBaNPASiD2790CafqKI3TqH0K4CQbzafY7_ORbrF1rTzAX18V_opn3CCia1wvjHak0I-miKLZXPFO6ARK21AHA1QiNLJUZnw0ZSFKX_IYkq9s9N8zeAZqoXn4zky8nO-ZGTRhUkLgqA9fAp9gFftqPA=w1710-h1283-s-no-gm?authuser=0)
 
