@@ -1,45 +1,18 @@
 ---
 ---
+
 @import "minima";
 
-/* 1. Unlock the container so images can actually expand */
 .wrapper {
-  max-width: 100% !important;
-  padding-right: 0 !important;
-  padding-left: 0 !important;
+  max-width: 1200px !important;
 }
 
-/* 2. Keep your TEXT centered and readable (800px) */
-.post-header, 
-.post-content p, 
-.post-content h1, 
-.post-content h2, 
-.post-content h3, 
-.post-content blockquote,
-.post-content ul,
-.post-content ol {
-  max-width: 800px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0 20px;
-}
-
-/* 3. Make the PHOTOS the star (Full Width) */
 .post-content img {
-  display: block;
   width: 100vw !important;
-  max-width: 100vw !important;
-  height: auto !important; /* This fixes the squish aspect ratio */
-  
-  /* Centers the full-width image */
   position: relative;
   left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  transform: translateX(-50%);
+  max-width: 100vw !important;
 }
 
 .home p, .home p em {
