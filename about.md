@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: About
 ---
 - I’m from a little town on the northern coast of Puerto Rico (now emerging from obscurity due to also being the hometown of Bad Bunny). This is still home, where my mom and brother and dog live and I always yearn to return. I never quite feel at home if I’m far from the ocean and the sun, except in Bologna, where I spent an idyllic year as a graduate student in my mid-twenties.
