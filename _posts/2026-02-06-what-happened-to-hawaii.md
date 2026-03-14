@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Happened to Hawaii"
-date: 2026-02-09
+date: 2026-02-06
 ---
 
 For over five years, I've rolled my eyes at my partner every time we look out at a beautiful landscape, from Santorini to Sicily to San Juan. "It's very pretty," he'd say, "but it's not Hawaii." 
