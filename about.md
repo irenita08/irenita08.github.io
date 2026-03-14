@@ -15,8 +15,7 @@ title: About
   - number of interesting books read and new things learned (via work or otherwise); and
   - (most importantly) time spent with Sage and my favorite humans.
 
-
-
+  
 - This sabbatical is an attempt to reorient my life around those things, and figure out what I’m meant to be doing with the precious little time we’re gifted on this planet.
 
 
